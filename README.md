@@ -26,7 +26,7 @@ This project simulates a radar system using Arduino. It scans the surroundings u
 4. Processing draws the radar scan and object location visually.
 
 ## 🖥️ Circuit Diagram
-> ![Radar Circuit Diagram](circuit_diagram.png)
+> ![Radar Circuit Diagram](Screenshot 2025-06-11 121524.png)
 ## 📸 Screenshots
 > *(Insert radar output screenshots/GIFs here if possible)*
 

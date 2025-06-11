@@ -29,7 +29,7 @@ This project simulates a radar system using Arduino. It scans the surroundings u
 > ![Radar Circuit Diagram](Projects/RadarDetection/Screenshot%202025-06-11%20121524.png)
 
 ## 📸 Screenshots
-> *(Insert radar output screenshots/GIFs here if possible)*
+> ![Radar Detection Result](Projects/RadarDetection/Result.jpg)
 
 ## 📂 Files
 - `arduino code.txt` – Arduino code
